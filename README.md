@@ -1,1 +1,1 @@
-# go-tutorial
+# rust-tutorial
